@@ -6,7 +6,7 @@ export default function Message (props) {
        <>
        <div className={props.status}>
             <div className="profile">
-            <img src="../../images/avatar4.jpg" className="profile"/>
+            <img src={props.image} className="profile"/>
             </div>
             <div className="mg-text">
                 I am here for you sir..

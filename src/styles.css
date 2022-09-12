@@ -240,3 +240,31 @@ body{
     border-radius: 1rem 0rem 1rem 1rem;
     background-color: rgb(139, 103, 173);
 }
+
+.text-input {
+  width: 90%;
+  height: 3rem;
+  margin-left: 1rem;
+  background-color: var(--color-three);
+  border: none;
+  border-bottom: 1px solid grey;
+  padding-left: 2rem;
+  font-size: 1.2rem;
+}
+
+.texter {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.send-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  padding: 0.5rem;
+  margin-left: 1rem;
+}
+
+.send-icon:hover {
+  background-color: azure;
+  border-radius: 10rem;
+}
