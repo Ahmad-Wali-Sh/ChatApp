@@ -9,10 +9,7 @@ export default function Message (props) {
             <img src={props.image} className="profile"/>
             </div>
             <div className="mg-text">
-                I am here for you sir..
-                yes we are here and doing lots of work to be done in a cuple of minutes...
-                I am here for you sir..
-                yes we are here and doing lots of work to be done in a cuple of minutes...
+                I am here to show what is.
             <p className="mg-time">12:34 | 09 June</p>
             </div>
         </div>

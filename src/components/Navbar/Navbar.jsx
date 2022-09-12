@@ -7,18 +7,18 @@ export default function Navbar () {
         <div className="navbar">
             <Header />
             <div className="chatbox">
-            <ChatLog name="Halim"/>
-            <ChatLog name="Noman"/>
-            <ChatLog name="Erfan"/>
-            <ChatLog name="Nawid"/>
-            <ChatLog name="Samir"/>
-            <ChatLog name="Ramin" />
-            <ChatLog name="Rashid"/>
-            <ChatLog name="Rashid"/>
-            <ChatLog name="Rashid"/>
-            <ChatLog name="Rashid"/>
-            <ChatLog name="Rashid"/>
-            <ChatLog name="Rashid"/>
+            <ChatLog name="Halim" status="off"/>
+            <ChatLog name="Nobody" status="on" />
+            <ChatLog name="Erfan" status="off" />
+            <ChatLog name="Nawid" status="off"/>
+            <ChatLog name="Samir" status="off"/>
+            <ChatLog name="Ramin" status="off"/>
+            <ChatLog name="Rashid" status="off"/>
+            <ChatLog name="Rashid" status="off"/>
+            <ChatLog name="Rashid" status="off"/>
+            <ChatLog name="Rashid" status="off"/>
+            <ChatLog name="Rashid" status="off"/>
+            <ChatLog name="Rashid" status="off"/>
             </div>
         </div>
     )
