@@ -12,8 +12,6 @@ export default function Header () {
             <h5 className="grey">is Typing...</h5>
             </div>
             <div className="icons">
-            <i class="fa fa-phone iconhover" aria-hidden="true"></i>
-            <i class="fa fa-sign-in iconhover" aria-hidden="true"></i>
             <i class="fa-solid fa-share iconhover"></i>
             </div>
         </div>
