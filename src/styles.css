@@ -31,6 +31,7 @@ body{
   width:30%;
   height: 39rem;
   margin-bottom: 6rem;
+  border-right: 1px solid grey;
 }
 
 .nav-header {
@@ -105,6 +106,12 @@ body{
   padding: 1rem;
   background-color: rgb(184, 184, 184);
   border-bottom: 1px solid rgb(174, 174, 174);
+}
+
+.index-text {
+  text-align: center;
+  margin-top:20rem;
+  color:white
 }
 
 .off{
